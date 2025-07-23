@@ -73,26 +73,26 @@ Here are a few projects I'm proud of. You can find more on my repositories page.
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Project 1 Title</h3>
-      <p>A brief but impactful description of your project. What problem does it solve? What technologies did you use? Highlight your key contributions.</p>
-      <a href="[link-to-your-project-repository]" target="_blank">Repository Link</a> | <a href="[link-to-live-demo-if-any]" target="_blank">Live Demo</a>
+      <h3>Agendar</h3>
+      <p>Personal agenda for freelancers's services management </p>
+      <a href="https://github.com/oThisgo/projeto-gestao-agil-front.git" target="_blank">Repository Link</a> | <a href="projeto-gestao-agil-front.vercel.app" target="_blank">Take a look</a>
     </td>
     <td width="50%" valign="top">
-      <h3>Project 2 Title</h3>
-      <p>Showcase another great project here. Emphasize the skills you demonstrated, such as working with a specific framework or integrating an API. </p>
-      <a href="[link-to-your-project-repository]" target="_blank">Repository Link</a> | <a href="[link-to-live-demo-if-any]" target="_blank">Live Demo</a>
+      <h3>Class Check</h3>
+      <p>App developed to help automatize the process of presence check in classes or events via QR Code</p>
+      <a href="https://github.com/oThisgo/class-check.git" target="_blank">Repository Link</a> | <a href="https://class-check-ruby.vercel.app" target="_blank">Take a look</a>
     </td>
   </tr>
     <tr>
     <td width="50%" valign="top">
-      <h3>Project 3 Title</h3>
-      <p>Describe a project where you used Python for AI or automation. Mention the impact of the project and the results you achieved.</p>
-      <a href="[link-to-your-project-repository]" target="_blank">Repository Link</a> | <a href="[link-to-live-demo-if-any]" target="_blank">Live Demo</a>
+      <h3>Scomfort Chatbot</h3>
+      <p>Chatbot for Scomfort shoes company to guide the customer</p>
+      <a href="https://github.com/oThisgo/Scomfort_Chatbot.git" target="_blank">Repository Link</a> | 
     </td>
     <td width="50%" valign="top">
-      <h3>Project 4 Title</h3>
-      <p>This could be a full-stack application. Detail the frontend, backend, and database technologies you integrated to bring it to life.</p>
-      <a href="[link-to-your-project-repository]" target="_blank">Repository Link</a> | <a href="[link-to-live-demo-if-any]" target="_blank">Live Demo</a>
+      <h3>MusicRATE</h3>
+      <p>Rotten Tomatoes's like web application for songs, albums and artists</p>
+      <a href="https://github.com/oThisgo/unisenac-full-stack-project.git" target="_blank">Repository Link</a> |
     </td>
   </tr>
 </table>
