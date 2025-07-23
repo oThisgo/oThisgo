@@ -3,16 +3,16 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin-url]" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-schiedeck-dias-da-silveira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:[your-email@provider.com]">
+  <a href="mailto:thiagosds1701@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 
 <h1 align="center">
-  Hey there 👋, I'm [Your Name]
+  Hey there 👋, I'm Thiago
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -24,13 +24,13 @@
 
 ### 👨‍💻 About Me
 
-I am a dedicated and passionate **Systems Analysis and Development** student at **Senac**, with a technical background in programming. My goal is to leverage technology to build innovative solutions that solve real-world problems. I am currently honing my skills as a developer at **Bee Touch**, a forward-thinking company in the mental health technology space.
+I am a dedicated **Systems Analysis and Development** student at **Senac**, with a technical background in programming. My goal is to leverage technology to build innovative solutions that solve real-world problems. I am currently honing my skills as a developer at **Bee Touch**, a forward-thinking company in the mental health technology space.
 
 - 🎓 I'm currently studying **Systems Analysis and Development** at Senac.
 - 💼 I’m working as a **Developer** at **[Bee Touch](https://beetouch.com.br/)**, where I contribute to developing technologies that promote mental well-being.
 - 🌱 I’m always learning and currently focusing on deepening my expertise in AI applications and scalable backend systems.
 - 💬 Ask me about web development, process automation, or anything tech-related!
-- 📫 How to reach me: **[your-email@provider.com]**
+- 📫 How to reach me: **thiagosds1701@gmail.com**
 
 ---
 
@@ -56,11 +56,11 @@ Here are the technologies I work with:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=othisgo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othisgo&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </p>
 
