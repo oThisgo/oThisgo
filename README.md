@@ -16,8 +16,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
 ### 👨‍💻 About Me
 
 I am a dedicated **Systems Analysis and Development** student at **Senac**, with a technical background in programming. My goal is to leverage technology to build innovative solutions that solve real-world problems. I am currently honing my skills as a developer at **Bee Touch**, a forward-thinking company in the mental health technology space.
